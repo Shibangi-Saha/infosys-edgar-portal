@@ -1,4 +1,8 @@
 streamlit
 pandas
 plotly
-requests
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+groq
