@@ -6,8 +6,4 @@ sentence-transformers
 faiss-cpu
 numpy
 groq
-<<<<<<< HEAD
 torchvision
-=======
-torchvision
->>>>>>> dc1fcbfd4a748855e7f896cb317c76aa6a53b340
