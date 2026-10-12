@@ -404,4 +404,4 @@ with tab9:
         "Grounding Score (%)": ["98%", "100%", "100%", "96%"],
         "Citation Present": ["✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"]
     })
-    st.dataframe(eval_df, use_container_width=True)
+    st.dataframe(eval_df, use_container_width=True) 
